@@ -20,7 +20,7 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
+| Education | Are kids going to school to learn and grow? | How many kids can really do work alone? | Schemas | Making clubs for kids where they can learn something they want and not loosing their time |
 | Vaccination | | | | |
 | Productivity | | | | |
 
